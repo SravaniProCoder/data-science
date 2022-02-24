@@ -1,2 +1,2 @@
-# data-science
+# tips in pandas
 some basics programs
